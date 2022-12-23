@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-namespace chillyrewrite
+﻿namespace chillyrewrite
 {
     public class Entity
     {
